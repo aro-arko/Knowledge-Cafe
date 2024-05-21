@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover_title": "The Enchanted Forest",
+    "author": "Liam Thompson",
+    "author_img": "https://i.ibb.co/6HGSLSB/photo-1522075469751-3a6694fb2f61.jpg",
+    "cover": "https://i.ibb.co/0D36ZGS/Rectangle-1.png",
+    "posted_date": "2024-04-15",
+    "reading_time": 8,
+    "hashtags": ["#fantasy", "#adventure", "#magic"]
+  },
+  {
+    "id": "2",
+    "cover_title": "Secrets of the Quantum Realm",
+    "author": "Emily Richards",
+    "author_img": "https://i.ibb.co/4tDXPtb/Ellipse-1-2.png",
+    "cover": "https://i.ibb.co/cTFhkVH/Rectangle-1-1.png",
+    "posted_date": "2024-05-01",
+    "reading_time": 12,
+    "hashtags": ["#science", "#quantumphysics", "#technology"]
+  },
+  {
+    "id": "3",
+    "cover_title": "Gourmet Journeys: Culinary Wonders",
+    "author": "Carlos Fernandez",
+    "author_img": "https://i.ibb.co/027PJHj/Ellipse-1-1.png",
+    "cover": "https://i.ibb.co/xDQhstZ/Rectangle-1-2.png",
+    "posted_date": "2024-03-22",
+    "reading_time": 10,
+    "hashtags": ["#food", "#travel", "#gourmet"]
+  },
+  {
+    "id": "4",
+    "cover_title": "Digital Nomad Life: A Guide",
+    "author": "Sophia Wang",
+    "author_img": "https://i.ibb.co/SX8YXFt/Ellipse-1.png",
+    "cover": "https://i.ibb.co/cTFhkVH/Rectangle-1-1.png",
+    "posted_date": "2024-02-18",
+    "reading_time": 7,
+    "hashtags": ["#lifestyle", "#travel", "#remotework"]
+  },
+  {
+    "id": "5",
+    "cover_title": "Urban Legends Unveiled",
+    "author": "Michael Brooks",
+    "author_img": "https://i.ibb.co/6HGSLSB/photo-1522075469751-3a6694fb2f61.jpg",
+    "cover": "https://i.ibb.co/0D36ZGS/Rectangle-1.png",
+    "posted_date": "2024-01-30",
+    "reading_time": 9,
+    "hashtags": ["#mystery", "#urbanlegends", "#history"]
+  }
+]
